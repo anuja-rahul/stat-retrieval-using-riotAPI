@@ -2,7 +2,7 @@
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuja-rahul&repo=stat-retrieval-using-riotAPI\&theme=nightowl)
 
-## stat retrieval using riotAPI
+## Stat retrieval using riotAPI
 
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&color=000)
 &nbsp;&nbsp;

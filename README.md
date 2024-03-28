@@ -7,11 +7,11 @@
 
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&color=000)
 &nbsp;&nbsp;
-![GitHub](https://img.shields.io/github/forks/anuja-rahul/markdown-everything?style=for-the-badge&logo=github)
+![GitHub](https://img.shields.io/github/forks/anuja-rahul/stat-retrieval-using-riotAPI?style=for-the-badge&logo=github)
 &nbsp;&nbsp;
-![GitHub](https://img.shields.io/github/license/anuja-rahul/markdown-everything?style=for-the-badge&logo=github)
+![GitHub](https://img.shields.io/github/license/anuja-rahul/stat-retrieval-using-riotAPI?style=for-the-badge&logo=github)
 &nbsp;&nbsp;
-![GitHub](https://img.shields.io/github/stars/anuja-rahul/markdown-everything?style=for-the-badge&logo=github)
+![GitHub](https://img.shields.io/github/stars/anuja-rahul/stat-retrieval-using-riotAPI?style=for-the-badge&logo=github)
 
 ## Prerequisites:
 

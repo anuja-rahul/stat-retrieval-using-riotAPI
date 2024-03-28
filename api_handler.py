@@ -11,7 +11,7 @@ dotenv.load_dotenv()
 
 class APIHandler:
 
-    regions = {
+    __REGIONS = {
         "AM": "americas",
         "AS": "asia",
         "EU": "europe",
@@ -25,11 +25,11 @@ class APIHandler:
 
     def __init__(self, summoner_name: str, region: str):
 
-        if region not in APIHandler.regions.keys():
+        if region not in APIHandler.__REGIONS.keys():
             raise Exception(f"Invalid region\n {self.get_regions()}")
 
         self.__summoner_name = summoner_name.split(" ")
-        self.__region = APIHandler.regions[region.upper()]
+        self.__region = APIHandler.__REGIONS[region.upper()]
         self.__puuid = self.__get_response(self.__get_authorized_url())['puuid']
         self.__match_url = None
         self.__matches = None
@@ -86,4 +86,4 @@ class APIHandler:
 
     @staticmethod
     def get_regions():
-        return APIHandler.regions
+        return APIHandler.__REGIONS

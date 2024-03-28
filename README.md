@@ -1,6 +1,6 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown) 
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuja-rahul&repo=stat-retrieval-using-riotAPI\&theme=nightowl\&show_owner=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuja-rahul&repo=stat-retrieval-using-riotAPI\&theme=nightowl)
 
 # Stat retrieval using riotAPI
 #### Currently only support league of legends only !

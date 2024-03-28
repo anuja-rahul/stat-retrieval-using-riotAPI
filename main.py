@@ -6,7 +6,7 @@ import pprint
 
 from api_handler import APIHandler
 
-test = APIHandler("jack j", "EU")
+test = APIHandler("test user", "EU")
 pprint.pprint(test.get_match_data())
 
 # Still under construction 😊
